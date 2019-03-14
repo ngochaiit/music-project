@@ -1,0 +1,9 @@
+.ct-player {
+    background-color: #ddd;
+    height: 80px;
+    border-radius: 7px;
+    display: flex;
+    flex-flow: row;
+    justify-content: left;
+    align-items: center;
+}
